@@ -29,7 +29,7 @@ Python VS Bash
     if __name__ == "__main__":
         main()
 
-    ############################################################################
+    # # #
 
     #!/usr/bin/env python
     # A System Information Gathering Script
