@@ -2,6 +2,7 @@ Python VS Bash
 ===
 
 ## Python
+``` py
     #!/usr/bin/env python
     # A System Information Gathering Script
     # sysinfo.py
@@ -42,8 +43,10 @@ Python VS Bash
 
     if __name__ == "__main__":
         main()
+```
 
 ## Bash
+``` sh
     #!/bin/bash
     # A System Information Gathering Script
     # sysinfo.sh
@@ -72,3 +75,4 @@ Python VS Bash
     }
 
     main
+```
