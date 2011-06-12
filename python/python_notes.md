@@ -2,7 +2,7 @@ Learning Python
 ===============
 
 ## Description
-    2011-06，开始学习Python
+    *2011-06，开始学习Python*
 
 ## Tutorials
 - **Dive Into Python**
