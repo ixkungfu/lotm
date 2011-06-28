@@ -76,7 +76,7 @@ s.quit()
 * itertools
 
 ## PDF模块
-* reportlab.pdfgen
+reportlab.pdfgen
 ``` py
 from reportla.pdfgen import canvas
 
