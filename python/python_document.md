@@ -2,7 +2,7 @@
 =========
 
 ## 收/发邮件
-```
+``` py
 # poplib
 import poplib
 username = 'ixkungfu'
@@ -77,7 +77,7 @@ s.quit()
 
 ## PDF模块
 * reportlab.pdfgen
-```
+``` py
 from reportla.pdfgen import canvas
 
 def hello():
